@@ -5,7 +5,7 @@ This repo includes three projects for participants in Mozilla's Web Literacy Tra
 
 Participants can fork this repo and then choose a project template to edit on their forked version.
 
-### Fork this repo:
+### *Fork this repo*:
 
 Click the "Fork" button in the top right of this page
 
